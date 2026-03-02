@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "恋する季節",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T17:46:02.559554Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋する季節",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/01_恋する季節_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋する季節",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/02_恋する季節_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋する季節",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/03_恋する季節_なとり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋する季節",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_恋する季節_サンボマスター.txt"
+    }
+  ]
+}
